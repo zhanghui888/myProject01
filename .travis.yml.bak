@@ -1,7 +1,6 @@
 language: javascript
 brancher:
   only: 
-    - "dev"
     - "master"
 install:
   - "npm install"  
